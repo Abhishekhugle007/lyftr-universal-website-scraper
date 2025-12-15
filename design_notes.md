@@ -1,0 +1,1 @@
+Static-first scraping with JS fallback using Playwright. Scroll depth >=3, load-more click attempted. Semantic content extraction used.
